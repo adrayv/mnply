@@ -5,9 +5,12 @@
     "build": "next build",
     "start": "next start"
   },
+  "prettier": {},
   "dependencies": {
+    "firebase": "^8.2.3",
     "next": "^10.0.5",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "superagent": "^6.1.0"
   }
 }
