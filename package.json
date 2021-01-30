@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "jest --watch"
   },
   "prettier": {},
   "dependencies": {
@@ -11,6 +12,8 @@
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "superagent": "^6.1.0"
-  }
+    "superagent": "^6.1.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
 }
