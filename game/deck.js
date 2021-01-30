@@ -52,11 +52,10 @@ export const makeProperty = (color, value) => ({
   },
 });
 
-export const makeProperties = () => {
+export const makeProperties = () =>
   Object.entries(properties).map(([color, { value, rentTiers }]) =>
     rentTiers.map(() => makeProperty(color, value))
   );
-};
 
 export const getRentTier = (property) => properties[property.color];
 
