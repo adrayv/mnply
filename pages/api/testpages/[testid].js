@@ -1,4 +1,4 @@
-import db from "~/services/firebase/firestore";
+import db from "../../../services/firebase/firestore";
 
 export default async function handler(req, res) {
   const {

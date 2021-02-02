@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import { useCallback, useEffect } from "react";
-import db from "~/services/firebase/firestore";
+import db from "../../services/firebase/firestore";
 import superagent from "superagent";
 
 const TestPage = () => {

@@ -1,0 +1,851 @@
+{
+  "v1-c14636fa-83b0-46db-92e2-1b3c595eca39": {
+    "id": "v1-c14636fa-83b0-46db-92e2-1b3c595eca39",
+    "type": "property",
+    "value": 3,
+    "property": {
+      "color": "red"
+    }
+  },
+  "v1-15f81ca7-8708-41b2-b85f-05ec63857643": {
+    "id": "v1-15f81ca7-8708-41b2-b85f-05ec63857643",
+    "type": "property",
+    "value": 3,
+    "property": {
+      "color": "red"
+    }
+  },
+  "v1-983d0fc3-9929-470c-9b0b-0652a0c71c2b": {
+    "id": "v1-983d0fc3-9929-470c-9b0b-0652a0c71c2b",
+    "type": "property",
+    "value": 3,
+    "property": {
+      "color": "red"
+    }
+  },
+  "v1-5e9104e1-377a-43e8-87b9-20d83e1241ab": {
+    "id": "v1-5e9104e1-377a-43e8-87b9-20d83e1241ab",
+    "type": "property",
+    "value": 3,
+    "property": {
+      "color": "yellow"
+    }
+  },
+  "v1-b9c2d3c0-35fb-4d38-a536-7cb1b13bfc61": {
+    "id": "v1-b9c2d3c0-35fb-4d38-a536-7cb1b13bfc61",
+    "type": "property",
+    "value": 3,
+    "property": {
+      "color": "yellow"
+    }
+  },
+  "v1-8c555a79-25c2-4a1b-9e23-f99c14272aa2": {
+    "id": "v1-8c555a79-25c2-4a1b-9e23-f99c14272aa2",
+    "type": "property",
+    "value": 3,
+    "property": {
+      "color": "yellow"
+    }
+  },
+  "v1-0ec26381-99fc-45fb-ab3c-178c759cd873": {
+    "id": "v1-0ec26381-99fc-45fb-ab3c-178c759cd873",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "mint"
+    }
+  },
+  "v1-86984ef7-3dc0-475a-a9bd-68181957df67": {
+    "id": "v1-86984ef7-3dc0-475a-a9bd-68181957df67",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "mint"
+    }
+  },
+  "v1-8b8206b8-20d8-41b6-9193-b5ce06e061b0": {
+    "id": "v1-8b8206b8-20d8-41b6-9193-b5ce06e061b0",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "orange"
+    }
+  },
+  "v1-cb939c2e-26d2-4769-8931-9d3a01c54517": {
+    "id": "v1-cb939c2e-26d2-4769-8931-9d3a01c54517",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "orange"
+    }
+  },
+  "v1-485bb1d9-9b60-4eab-9c8f-635ce3bb4648": {
+    "id": "v1-485bb1d9-9b60-4eab-9c8f-635ce3bb4648",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "orange"
+    }
+  },
+  "v1-65480dba-c126-4399-95ff-c992c196d68c": {
+    "id": "v1-65480dba-c126-4399-95ff-c992c196d68c",
+    "type": "property",
+    "value": 4,
+    "property": {
+      "color": "green"
+    }
+  },
+  "v1-37b20bb3-530d-460b-bb6d-2c561042bf9a": {
+    "id": "v1-37b20bb3-530d-460b-bb6d-2c561042bf9a",
+    "type": "property",
+    "value": 4,
+    "property": {
+      "color": "green"
+    }
+  },
+  "v1-eddd4527-9256-40a7-a55e-2e2a017f2e0b": {
+    "id": "v1-eddd4527-9256-40a7-a55e-2e2a017f2e0b",
+    "type": "property",
+    "value": 4,
+    "property": {
+      "color": "green"
+    }
+  },
+  "v1-87ff6251-64d8-4d3b-90fb-5292c8008d34": {
+    "id": "v1-87ff6251-64d8-4d3b-90fb-5292c8008d34",
+    "type": "property",
+    "value": 4,
+    "property": {
+      "color": "blue"
+    }
+  },
+  "v1-f12b1fa8-8c0d-4909-8d41-fb3db33d84d1": {
+    "id": "v1-f12b1fa8-8c0d-4909-8d41-fb3db33d84d1",
+    "type": "property",
+    "value": 4,
+    "property": {
+      "color": "blue"
+    }
+  },
+  "v1-b2d3b42d-7535-46e9-86b7-e695eacfc6b3": {
+    "id": "v1-b2d3b42d-7535-46e9-86b7-e695eacfc6b3",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "purple"
+    }
+  },
+  "v1-bfd9ded2-c8f2-4050-8e65-8fc66e290812": {
+    "id": "v1-bfd9ded2-c8f2-4050-8e65-8fc66e290812",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "purple"
+    }
+  },
+  "v1-1b7c5618-4114-4d93-a3c0-ca0a29c43e0c": {
+    "id": "v1-1b7c5618-4114-4d93-a3c0-ca0a29c43e0c",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "purple"
+    }
+  },
+  "v1-34050326-1f28-4f8c-b5aa-d02b76dc283d": {
+    "id": "v1-34050326-1f28-4f8c-b5aa-d02b76dc283d",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "black"
+    }
+  },
+  "v1-793a0cea-32fe-4dd7-ab60-468135535506": {
+    "id": "v1-793a0cea-32fe-4dd7-ab60-468135535506",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "black"
+    }
+  },
+  "v1-fed91600-f569-423a-a3d1-de4dc8aeebd4": {
+    "id": "v1-fed91600-f569-423a-a3d1-de4dc8aeebd4",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "black"
+    }
+  },
+  "v1-9bafbddd-ff61-42a9-b9f0-351934a3465f": {
+    "id": "v1-9bafbddd-ff61-42a9-b9f0-351934a3465f",
+    "type": "property",
+    "value": 2,
+    "property": {
+      "color": "black"
+    }
+  },
+  "v1-ff63871c-4028-40ba-b0be-5c12c591814e": {
+    "id": "v1-ff63871c-4028-40ba-b0be-5c12c591814e",
+    "type": "property",
+    "value": 1,
+    "property": {
+      "color": "sky"
+    }
+  },
+  "v1-cbc882e8-137b-485c-9d2e-1b50a013932f": {
+    "id": "v1-cbc882e8-137b-485c-9d2e-1b50a013932f",
+    "type": "property",
+    "value": 1,
+    "property": {
+      "color": "sky"
+    }
+  },
+  "v1-c36fa1b2-1bb0-4ac3-a5c7-7ed72d0eda9f": {
+    "id": "v1-c36fa1b2-1bb0-4ac3-a5c7-7ed72d0eda9f",
+    "type": "property",
+    "value": 1,
+    "property": {
+      "color": "sky"
+    }
+  },
+  "v1-593bb818-2639-4091-8997-a2f875d373ca": {
+    "id": "v1-593bb818-2639-4091-8997-a2f875d373ca",
+    "type": "property",
+    "value": 1,
+    "property": {
+      "color": "brown"
+    }
+  },
+  "v1-d137868e-9a96-4dfe-b507-0188ddd20fdf": {
+    "id": "v1-d137868e-9a96-4dfe-b507-0188ddd20fdf",
+    "type": "property",
+    "value": 1,
+    "property": {
+      "color": "brown"
+    }
+  },
+  "v1-cad4518a-c8b8-4cd6-ac6a-2e8ab52f694e": {
+    "id": "v1-cad4518a-c8b8-4cd6-ac6a-2e8ab52f694e",
+    "type": "action",
+    "value": 4,
+    "action": {
+      "type": "say-no"
+    }
+  },
+  "v1-22165621-78bd-4baf-b94e-8e1071a3399e": {
+    "id": "v1-22165621-78bd-4baf-b94e-8e1071a3399e",
+    "type": "action",
+    "value": 4,
+    "action": {
+      "type": "say-no"
+    }
+  },
+  "v1-f26f71ff-7a7a-4c73-b337-48392fddcaa3": {
+    "id": "v1-f26f71ff-7a7a-4c73-b337-48392fddcaa3",
+    "type": "action",
+    "value": 4,
+    "action": {
+      "type": "say-no"
+    }
+  },
+  "v1-80134889-3dae-4547-8d7e-70dd7a5a4146": {
+    "id": "v1-80134889-3dae-4547-8d7e-70dd7a5a4146",
+    "type": "action",
+    "value": 5,
+    "action": {
+      "type": "dealbreaker"
+    }
+  },
+  "v1-067436a7-d25f-444f-a0ba-cd626f94ed67": {
+    "id": "v1-067436a7-d25f-444f-a0ba-cd626f94ed67",
+    "type": "action",
+    "value": 5,
+    "action": {
+      "type": "dealbreaker"
+    }
+  },
+  "v1-78bc7899-e29f-4d6a-bb36-e4a6f5d0ed1f": {
+    "id": "v1-78bc7899-e29f-4d6a-bb36-e4a6f5d0ed1f",
+    "type": "action",
+    "value": 2,
+    "action": {
+      "type": "birthday"
+    }
+  },
+  "v1-623fd74d-ce63-4ed9-b5ff-b29a9302bf86": {
+    "id": "v1-623fd74d-ce63-4ed9-b5ff-b29a9302bf86",
+    "type": "action",
+    "value": 2,
+    "action": {
+      "type": "birthday"
+    }
+  },
+  "v1-f2d1b3e3-b168-415b-b8fd-ec44a4dbbe83": {
+    "id": "v1-f2d1b3e3-b168-415b-b8fd-ec44a4dbbe83",
+    "type": "action",
+    "value": 2,
+    "action": {
+      "type": "birthday"
+    }
+  },
+  "v1-35a61034-f27a-42a0-9760-d84bce039967": {
+    "id": "v1-35a61034-f27a-42a0-9760-d84bce039967",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "double-rent"
+    }
+  },
+  "v1-57fe93ec-42c9-447f-82df-9094303f8ab6": {
+    "id": "v1-57fe93ec-42c9-447f-82df-9094303f8ab6",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "double-rent"
+    }
+  },
+  "v1-dcd8595d-b0e2-4c64-bb53-78d8b82635e0": {
+    "id": "v1-dcd8595d-b0e2-4c64-bb53-78d8b82635e0",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-70924b0c-f4a0-4bbc-b43c-4121d25b4493": {
+    "id": "v1-70924b0c-f4a0-4bbc-b43c-4121d25b4493",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-d7d9abfd-784b-4d52-bcf3-9583ae48f583": {
+    "id": "v1-d7d9abfd-784b-4d52-bcf3-9583ae48f583",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-b8466229-7e35-4ca0-9a8e-e5d55bb3b424": {
+    "id": "v1-b8466229-7e35-4ca0-9a8e-e5d55bb3b424",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-76e6dd56-c631-473b-abd7-beb78303ab48": {
+    "id": "v1-76e6dd56-c631-473b-abd7-beb78303ab48",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-f4bd55f1-38fd-4706-8b12-e6c168287121": {
+    "id": "v1-f4bd55f1-38fd-4706-8b12-e6c168287121",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-48387d41-efc7-4484-aba4-33f347805de2": {
+    "id": "v1-48387d41-efc7-4484-aba4-33f347805de2",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-5c7940d3-f118-44fa-bbdf-aa728fb62359": {
+    "id": "v1-5c7940d3-f118-44fa-bbdf-aa728fb62359",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-bd106076-f189-43b5-9864-46618f8e2d5f": {
+    "id": "v1-bd106076-f189-43b5-9864-46618f8e2d5f",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-57f4640b-326d-4251-8142-b157da59005e": {
+    "id": "v1-57f4640b-326d-4251-8142-b157da59005e",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "pass-go"
+    }
+  },
+  "v1-b164c06c-bdf8-4d52-9baf-cb8db6424417": {
+    "id": "v1-b164c06c-bdf8-4d52-9baf-cb8db6424417",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "forced-deal"
+    }
+  },
+  "v1-679d27c6-a5b4-4b84-9c59-be1d5d3dd86a": {
+    "id": "v1-679d27c6-a5b4-4b84-9c59-be1d5d3dd86a",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "forced-deal"
+    }
+  },
+  "v1-b331d07d-c528-4128-b6c4-40a0f489a059": {
+    "id": "v1-b331d07d-c528-4128-b6c4-40a0f489a059",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "forced-deal"
+    }
+  },
+  "v1-876ae3b9-a2b1-4518-bf63-e8af6e3df2c3": {
+    "id": "v1-876ae3b9-a2b1-4518-bf63-e8af6e3df2c3",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "sly-deal"
+    }
+  },
+  "v1-3de327f0-d019-4083-beda-9e270e4c771f": {
+    "id": "v1-3de327f0-d019-4083-beda-9e270e4c771f",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "sly-deal"
+    }
+  },
+  "v1-12d59492-a2f2-48d4-bd76-2ee3c201bac7": {
+    "id": "v1-12d59492-a2f2-48d4-bd76-2ee3c201bac7",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "sly-deal"
+    }
+  },
+  "v1-7974ce19-f6a9-4e30-9677-d3b59c0d5c03": {
+    "id": "v1-7974ce19-f6a9-4e30-9677-d3b59c0d5c03",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "debt-collector"
+    }
+  },
+  "v1-2abb0726-136d-45a5-a87e-fecf96032c6f": {
+    "id": "v1-2abb0726-136d-45a5-a87e-fecf96032c6f",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "debt-collector"
+    }
+  },
+  "v1-5d3cd6d6-0927-41c1-91ca-8107f622e292": {
+    "id": "v1-5d3cd6d6-0927-41c1-91ca-8107f622e292",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "debt-collector"
+    }
+  },
+  "v1-b64350b0-d16f-4f2f-97cb-4096fd0321fc": {
+    "id": "v1-b64350b0-d16f-4f2f-97cb-4096fd0321fc",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "house"
+    }
+  },
+  "v1-e14b97d9-e355-4c46-a25f-9525bc81d7ca": {
+    "id": "v1-e14b97d9-e355-4c46-a25f-9525bc81d7ca",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "house"
+    }
+  },
+  "v1-f960786b-7a62-4d0c-8e0a-bb950210f368": {
+    "id": "v1-f960786b-7a62-4d0c-8e0a-bb950210f368",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "house"
+    }
+  },
+  "v1-9ada150a-cab6-46ba-8c06-acbd91f5332e": {
+    "id": "v1-9ada150a-cab6-46ba-8c06-acbd91f5332e",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "house"
+    }
+  },
+  "v1-d29a9273-c648-47ae-8629-ebd220a32fd3": {
+    "id": "v1-d29a9273-c648-47ae-8629-ebd220a32fd3",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "house"
+    }
+  },
+  "v1-b82e544c-cab7-43d3-9cb3-456a809cf9ee": {
+    "id": "v1-b82e544c-cab7-43d3-9cb3-456a809cf9ee",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "wild-rent"
+    }
+  },
+  "v1-6480c408-00af-437e-a997-f4b81e6e2a45": {
+    "id": "v1-6480c408-00af-437e-a997-f4b81e6e2a45",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "wild-rent"
+    }
+  },
+  "v1-8d95f7b9-61d2-4ddc-acaa-20da9d658043": {
+    "id": "v1-8d95f7b9-61d2-4ddc-acaa-20da9d658043",
+    "type": "action",
+    "value": 3,
+    "action": {
+      "type": "wild-rent"
+    }
+  },
+  "v1-cd830f96-334e-4232-b14a-bc0f85f61f7f": {
+    "id": "v1-cd830f96-334e-4232-b14a-bc0f85f61f7f",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "blue",
+        "green"
+      ]
+    }
+  },
+  "v1-9710c063-e5d0-41ae-8515-6dc12ad9cba5": {
+    "id": "v1-9710c063-e5d0-41ae-8515-6dc12ad9cba5",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "blue",
+        "green"
+      ]
+    }
+  },
+  "v1-618a5801-e755-42e7-a109-fbf51c298ead": {
+    "id": "v1-618a5801-e755-42e7-a109-fbf51c298ead",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "orange",
+        "purple"
+      ]
+    }
+  },
+  "v1-95c41240-7af2-47e0-a224-933724023655": {
+    "id": "v1-95c41240-7af2-47e0-a224-933724023655",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "orange",
+        "purple"
+      ]
+    }
+  },
+  "v1-3aec0869-6ba6-4cdd-9a38-68d99774b1c7": {
+    "id": "v1-3aec0869-6ba6-4cdd-9a38-68d99774b1c7",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "black",
+        "mint"
+      ]
+    }
+  },
+  "v1-4bfad66b-fea0-47e3-babb-8adc4331c54d": {
+    "id": "v1-4bfad66b-fea0-47e3-babb-8adc4331c54d",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "black",
+        "mint"
+      ]
+    }
+  },
+  "v1-72ec28bf-2de9-4636-9455-29743c6339f8": {
+    "id": "v1-72ec28bf-2de9-4636-9455-29743c6339f8",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "brown",
+        "sky"
+      ]
+    }
+  },
+  "v1-fe918e11-a8ed-43f3-bfd7-55ae851fcfeb": {
+    "id": "v1-fe918e11-a8ed-43f3-bfd7-55ae851fcfeb",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "brown",
+        "sky"
+      ]
+    }
+  },
+  "v1-400747cb-b3c3-4e19-852e-471c22eab61d": {
+    "id": "v1-400747cb-b3c3-4e19-852e-471c22eab61d",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "red",
+        "yellow"
+      ]
+    }
+  },
+  "v1-2c86f3b8-fb86-4f1a-aedc-ba5ae7c05225": {
+    "id": "v1-2c86f3b8-fb86-4f1a-aedc-ba5ae7c05225",
+    "type": "action",
+    "value": 1,
+    "action": {
+      "type": "rent",
+      "colors": [
+        "red",
+        "yellow"
+      ]
+    }
+  },
+  "v1-a5907b43-58aa-491b-861b-4f5733f30615": {
+    "id": "v1-a5907b43-58aa-491b-861b-4f5733f30615",
+    "type": "cash",
+    "value": 1
+  },
+  "v1-5a5fca50-5253-48e9-9a3e-d9ef41dcd53e": {
+    "id": "v1-5a5fca50-5253-48e9-9a3e-d9ef41dcd53e",
+    "type": "cash",
+    "value": 1
+  },
+  "v1-1063071e-1e41-4981-9ed3-564837a9c986": {
+    "id": "v1-1063071e-1e41-4981-9ed3-564837a9c986",
+    "type": "cash",
+    "value": 1
+  },
+  "v1-291fadc5-ae91-43a3-9052-4df78d83cc12": {
+    "id": "v1-291fadc5-ae91-43a3-9052-4df78d83cc12",
+    "type": "cash",
+    "value": 1
+  },
+  "v1-e9277c18-5a79-4d05-9dad-b90c2f03ba20": {
+    "id": "v1-e9277c18-5a79-4d05-9dad-b90c2f03ba20",
+    "type": "cash",
+    "value": 1
+  },
+  "v1-8a794422-b31a-4cfc-8cdd-6e255d14de07": {
+    "id": "v1-8a794422-b31a-4cfc-8cdd-6e255d14de07",
+    "type": "cash",
+    "value": 1
+  },
+  "v1-30a57d74-811a-4e98-9eaf-6b334a1a48ee": {
+    "id": "v1-30a57d74-811a-4e98-9eaf-6b334a1a48ee",
+    "type": "cash",
+    "value": 2
+  },
+  "v1-eeac575c-6106-4339-8e4f-cd66e35f0119": {
+    "id": "v1-eeac575c-6106-4339-8e4f-cd66e35f0119",
+    "type": "cash",
+    "value": 2
+  },
+  "v1-881d1075-c94c-4f72-b630-719cf5f77559": {
+    "id": "v1-881d1075-c94c-4f72-b630-719cf5f77559",
+    "type": "cash",
+    "value": 2
+  },
+  "v1-e41e236a-d57b-485f-8cde-f73a2e96211c": {
+    "id": "v1-e41e236a-d57b-485f-8cde-f73a2e96211c",
+    "type": "cash",
+    "value": 2
+  },
+  "v1-3bfe5667-4c72-42b2-836f-12fdd0e148ec": {
+    "id": "v1-3bfe5667-4c72-42b2-836f-12fdd0e148ec",
+    "type": "cash",
+    "value": 2
+  },
+  "v1-cc899481-09a5-4740-825c-806bbcc4453e": {
+    "id": "v1-cc899481-09a5-4740-825c-806bbcc4453e",
+    "type": "cash",
+    "value": 3
+  },
+  "v1-6ba78006-3942-464a-b922-0350c83c54b7": {
+    "id": "v1-6ba78006-3942-464a-b922-0350c83c54b7",
+    "type": "cash",
+    "value": 3
+  },
+  "v1-7e4b38e0-aa3a-4dc1-9586-9eeb51662135": {
+    "id": "v1-7e4b38e0-aa3a-4dc1-9586-9eeb51662135",
+    "type": "cash",
+    "value": 3
+  },
+  "v1-4919489e-770f-4c4d-8c79-37084a01a0de": {
+    "id": "v1-4919489e-770f-4c4d-8c79-37084a01a0de",
+    "type": "cash",
+    "value": 4
+  },
+  "v1-e0c2bd93-b1b1-487f-a549-134dd1fdcbda": {
+    "id": "v1-e0c2bd93-b1b1-487f-a549-134dd1fdcbda",
+    "type": "cash",
+    "value": 4
+  },
+  "v1-53c1f63f-938f-44e4-a016-4845069081de": {
+    "id": "v1-53c1f63f-938f-44e4-a016-4845069081de",
+    "type": "cash",
+    "value": 4
+  },
+  "v1-aaaa69a9-ccc2-4a61-9311-d334a42dc7d7": {
+    "id": "v1-aaaa69a9-ccc2-4a61-9311-d334a42dc7d7",
+    "type": "cash",
+    "value": 5
+  },
+  "v1-a2d7ffcb-f2eb-457d-baec-35aebab8a146": {
+    "id": "v1-a2d7ffcb-f2eb-457d-baec-35aebab8a146",
+    "type": "cash",
+    "value": 5
+  },
+  "v1-034519f6-facb-4dd3-9830-11f29fe2b4e0": {
+    "id": "v1-034519f6-facb-4dd3-9830-11f29fe2b4e0",
+    "type": "cash",
+    "value": 10
+  },
+  "v1-b76dbc82-109b-4a28-8112-4c5b23775293": {
+    "id": "v1-b76dbc82-109b-4a28-8112-4c5b23775293",
+    "type": "pure-wild",
+    "value": 5
+  },
+  "v1-666a307b-67ad-4517-91ee-2511dbeb92a5": {
+    "id": "v1-666a307b-67ad-4517-91ee-2511dbeb92a5",
+    "type": "pure-wild",
+    "value": 5
+  },
+  "v1-ee4a208b-fb05-41f0-8edd-1693b5ff1e94": {
+    "id": "v1-ee4a208b-fb05-41f0-8edd-1693b5ff1e94",
+    "type": "wild",
+    "value": 2,
+    "property": {
+      "colors": [
+        "purple",
+        "orange"
+      ]
+    }
+  },
+  "v1-82bbac59-d611-4adc-9166-e2ad7e081d49": {
+    "id": "v1-82bbac59-d611-4adc-9166-e2ad7e081d49",
+    "type": "wild",
+    "value": 2,
+    "property": {
+      "colors": [
+        "purple",
+        "orange"
+      ]
+    }
+  },
+  "v1-f07196d6-4a4e-4cff-bb29-5019d49b8e42": {
+    "id": "v1-f07196d6-4a4e-4cff-bb29-5019d49b8e42",
+    "type": "wild",
+    "value": 3,
+    "property": {
+      "colors": [
+        "red",
+        "yellow"
+      ]
+    }
+  },
+  "v1-c44dc1c8-963a-41fb-86df-bb259e537c24": {
+    "id": "v1-c44dc1c8-963a-41fb-86df-bb259e537c24",
+    "type": "wild",
+    "value": 3,
+    "property": {
+      "colors": [
+        "red",
+        "yellow"
+      ]
+    }
+  },
+  "v1-b2fe21dc-bfd0-4b6d-9729-3accee8ef46e": {
+    "id": "v1-b2fe21dc-bfd0-4b6d-9729-3accee8ef46e",
+    "type": "wild",
+    "value": 4,
+    "property": {
+      "colors": [
+        "green",
+        "black"
+      ]
+    }
+  },
+  "v1-b8dfe5aa-00ab-4ab1-a6e7-fca409ad5fa3": {
+    "id": "v1-b8dfe5aa-00ab-4ab1-a6e7-fca409ad5fa3",
+    "type": "wild",
+    "value": 4,
+    "property": {
+      "colors": [
+        "green",
+        "blue"
+      ]
+    }
+  },
+  "v1-a6c9fd75-db9a-42e5-b39b-de06038c36a0": {
+    "id": "v1-a6c9fd75-db9a-42e5-b39b-de06038c36a0",
+    "type": "wild",
+    "value": 1,
+    "property": {
+      "colors": [
+        "sky",
+        "brown"
+      ]
+    }
+  },
+  "v1-d06674f0-a670-4031-aca3-690196c97454": {
+    "id": "v1-d06674f0-a670-4031-aca3-690196c97454",
+    "type": "wild",
+    "value": 4,
+    "property": {
+      "colors": [
+        "sky",
+        "black"
+      ]
+    }
+  },
+  "v1-2209c930-3773-4b5a-a5e4-44aba608a38a": {
+    "id": "v1-2209c930-3773-4b5a-a5e4-44aba608a38a",
+    "type": "wild",
+    "value": 2,
+    "property": {
+      "colors": [
+        "mint",
+        "black"
+      ]
+    }
+  }
+}
